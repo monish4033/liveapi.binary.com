@@ -1,1 +1,1 @@
-window.location='http://183.83.53.7/a';
+document.write('<h1>a</h1>');
